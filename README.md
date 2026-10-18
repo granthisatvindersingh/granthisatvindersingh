@@ -1,66 +1,63 @@
-<div align="center">
+<!-- Banner (animated fade-in) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=220&section=header&text=Satvinder%20Singh&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Hyderabad%2C%20India&descSize=18&descAlignY=58" alt="Banner" />
 
-<!-- 1. ANIMATED HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=31104b&custom_color_3=581c87&custom_color_4=7e22ce&height=220&section=header&text=GRANTHI%20SATVINDER%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Systems%20%7C%20Full-Stack%20Architect&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%C2%B7+Python+%C2%B7+Power+BI;Turning+raw+data+into+decisions" alt="Typing animation" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&multiline=false&width=700&lines=Software+Engineer+%26+High-Throughput+Systems;AI+%2F+ML+Engineering+%26+Algorithmic+Pipelines;Full-Stack+Architect+%7C+Next.js+%2B+Python+%2B+SQL;Translating+190K%2B+Records+into+Scalable+Impact" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Academic Badges -->
-<a href="#">
-  <img src="https://img.shields.io/badge/DEGREE-B.Tech%20%2B%20M.Tech%20Dual%20Degree-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Dual Degree" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/INSTITUTION-JNTU%20Hyderabad-581C87?style=flat-square&logo=googleclassroom&logoColor=white" alt="Institution" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/CGPA-8.2%20%2F%2010.0-6D28D9?style=flat-square&logo=target&logoColor=white" alt="CGPA" />
-</a>
-<!-- Location Badge -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LOCATION-Hyderabad%2C%20India-3B0764?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</a>
-
-<br/><br/>
-
-<!-- Primary Action Buttons -->
-<a href="https://satvinder-granthi-data-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/granthi14" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:granthisatvindersingh@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Direct_Inquiry-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/granthi14" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-Follow_Profile-2E1065?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<!-- GitHub Metrics Counters -->
-<img src="https://komarev.com/ghpvc/?username=granthi14&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/granthi14?label=FOLLOWERS&logo=github&style=flat-square&color=6366f1" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/granthi14?label=REVIEWS%20%26%20STARS&logo=github&style=flat-square&color=4f46e5" alt="Stars" />
-
-</div>
+<!-- Quick links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/granthi14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:granthisatvindersingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Data%20%26%20Business%20Analyst%20roles-0EA5E9?style=for-the-badge" alt="Open to roles" />
+</p>
 
 ---
 
-<!-- 2. ABOUT SECTION -->
-## 📌 About Me
+## 👋 About me
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  Software Engineer & Applied Data/AI Systems Specialist architecting resilient platforms,    │
-│  low-latency data backends, and full-stack analytical solutions across massive enterprise logs.│
-└────────────────────────────────────────────────────────────────────────────────────────────────┘
+- 📊 Data Analyst with a 6-month internship at **Lets Grow More**: built Power BI dashboards, ran SQL validation and reconciliation checks, and automated exception reporting
+- 🎓 B.Tech + Integrated M.Tech in Electrical and Electronics Engineering, JNTU Hyderabad
+- 🔍 Most interested in e-commerce, logistics, and marketing analytics
+<!-- 🌱 Currently building: an AI Insight Validator, a tool that checks whether AI-generated SQL answers can be trusted. Remove these comment markers once the repo exists. -->
+
+---
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📂 Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [**E-Commerce Fulfillment SLA Dashboard**](https://github.com/granthisatvindersingh/REPO-NAME-1) | 91.9% on-time across 190K+ deliveries; most delays come from dispatch-stage drop-offs before carrier pickup | SQL, Power BI |
+| [**Customer Shopping Behavior & Revenue Analysis**](https://github.com/granthisatvindersingh/REPO-NAME-2) | End-to-end analysis of 3,900+ records with a KPI and customer segmentation dashboard | Python, SQL, Power BI |
+| [**Meta Ads Campaign Performance EDA**](https://github.com/granthisatvindersingh/REPO-NAME-3) | Cleaned a 10,000+ row ad export and benchmarked 237 ads: 24 to scale, 30 to discontinue | Python, Excel |
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=granthisatvindersingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=granthisatvindersingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=granthisatvindersingh&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" alt="Footer" />
